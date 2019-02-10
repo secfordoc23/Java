@@ -1,0 +1,1 @@
+genericstackapp.Menu

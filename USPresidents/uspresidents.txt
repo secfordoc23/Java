@@ -1,0 +1,20 @@
+George Washington,Virginia,February 22 1732,Non-partisan,April 30 1789
+John Adams,Massachusetts,October 30 1735,Federalist,March 4 1797
+Thomas Jefferson,Virginia,April 13 1743,Democratic-Republican,March 4 1801
+James Madison,Virginia,March 16 1751,Democratic-Republican,March 4 1809
+James Monroe,Virginia,April 28 1758,Democratic-Republican,March 4 1817
+John Quincy Adams,Massachusetts,July 11 1767,Democratic-Republican,March 4 1825
+Andrew Jackson,Tennessee,March 15 1767,Democratic,March 4 1829
+Martin Van Buren,New York,December 5 1782,Democratic,March 4 1837
+William Henry Harrison,Ohio,February 9 1773,Whig,March 4 1841
+John Tyler,Virginia,March 29 1790,Whig/Independent,April 4 1841
+
+
+
+
+
+
+
+
+
+
